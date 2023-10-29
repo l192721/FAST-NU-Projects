@@ -1,0 +1,5 @@
+Run the TimeServer.java first, and then the ClockApp.java
+file, then the CLockApp shall be able to fetch the time
+from the time server after a fixed interval of time for
+any of the entered time zone. The default time zone is
+Asia/Karachi.
