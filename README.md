@@ -43,6 +43,9 @@ This repository contains a variety of mini projects developed during my universi
 ### 13. SQL Assignments
 - Collection of SQL assignments and solutions.
 
+### 14. University Faculty Information Scraping using Python
+- Scraping Information of Faculty members of different campuses of a university and storing in csv files.
+
 ## Usage:
 - Explore each project folder for specific instructions and details.
 
